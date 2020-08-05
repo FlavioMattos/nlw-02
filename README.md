@@ -59,7 +59,7 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [github_issues_badge]: https://img.shields.io/github/issues/FlavioMattos/nlw-02
 
-[repository_license_badge]: https://img.shields.io/github/license/FlavioMattos/nlw-02?style=flat-square
+[repository_license_badge]: https://img.shields.io/github/license/FlavioMattos/nlw-02
 
 [node_version_badge]: https://img.shields.io/badge/node-13.13.0-green
 
