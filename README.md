@@ -39,7 +39,7 @@ O projeto tem como finalidade **conectar alunos com professores** para ter **aul
 - Protótipo: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Proffy)](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy)</kbd>**
 - Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
 - Teste de API: **[Insomnia][insomnia]**
-- Fontes: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
+- Fontes: **[Archivo][font_archivo]**, **[Poppins][font_poppins]**
 
 [font_poppins]: https://fonts.google.com/specimen/Poppins
 
