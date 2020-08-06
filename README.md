@@ -33,6 +33,15 @@ O projeto tem como finalidade **conectar alunos com professores** para ter **aul
 
   \* Veja o arquivo <kbd>[package.json](./web/package.json)</kbd>
 
+#### **Server** ([NodeJS][node] + [TypeScript][typescript])
+
+  - **[Express][express]**
+  - **[CORS][cors]**
+  - **[KnexJS][knex]**
+  - **[SQLite][sqlite3]**
+  - **[ts-node][tsnode]**
+
+  \* Veja o arquivo <kbd>[package.json](./server/package.json)</kbd>
 
 #### **Utilitários**
 
@@ -87,6 +96,10 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [express]: https://expressjs.com/
 
+[cors]: https://expressjs.com/en/resources/middleware/cors.html
+
+[knex]: http://knexjs.org/
+
 [sqlite3]: https://github.com/mapbox/node-sqlite3
 
 [tsnode]: https://github.com/TypeStrong/ts-node
@@ -94,5 +107,3 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 [insomnia]: https://insomnia.rest/
 
 [react_router_dom]: https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom
-
-[axios]: https://github.com/axios/axios
