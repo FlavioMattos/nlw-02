@@ -28,8 +28,6 @@ O projeto tem como finalidade **conectar alunos com professores** para ter **aul
 #### **Website** ([React][react] + [TypeScript][typescript])
 
   - **[React Router Dom][react_router_dom]**
-  - **[Axios][axios]**
-
 
   \* Veja o arquivo <kbd>[package.json](./web/package.json)</kbd>
 
