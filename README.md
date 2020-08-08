@@ -28,6 +28,7 @@ O projeto tem como finalidade **conectar alunos com professores** para ter **aul
 #### **Website** ([React][react] + [TypeScript][typescript])
 
   - **[React Router Dom][react_router_dom]**
+  - **[Axios][axios]**
 
   \* Veja o arquivo <kbd>[package.json](./web/package.json)</kbd>
 
@@ -105,3 +106,5 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 [insomnia]: https://insomnia.rest/
 
 [react_router_dom]: https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom
+
+[axios]: https://github.com/axios/axios
