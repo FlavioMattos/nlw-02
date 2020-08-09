@@ -42,6 +42,14 @@ O projeto tem como finalidade **conectar alunos com professores** para ter **aul
 
   \* Veja o arquivo <kbd>[package.json](./server/package.json)</kbd>
 
+#### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
+
+  - **[Expo Framework][expo]**
+  - **[React Router Dom][react_router_dom]**
+  - **[React Navigation][react_navigation]**
+
+  \* Veja o arquivo <kbd>[package.json](./mobile/package.json)</kbd>
+
 #### **Utilitários**
 
 - Protótipo: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Proffy)](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy)</kbd>**
@@ -69,7 +77,7 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [repository_license_badge]: https://img.shields.io/github/license/FlavioMattos/nlw-02
 
-[node_version_badge]: https://img.shields.io/badge/node-13.13.0-green
+[node_version_badge]: https://img.shields.io/badge/node-14.7.0-green
 
 [npm_version_badge]: https://img.shields.io/badge/npm-6.14.4-red
 
@@ -108,3 +116,8 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 [react_router_dom]: https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom
 
 [axios]: https://github.com/axios/axios
+
+[expo]: https://docs.expo.io/
+
+[react_navigation]: https://reactnavigation.org/
+
