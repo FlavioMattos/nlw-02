@@ -45,8 +45,10 @@ O projeto tem como finalidade **conectar alunos com professores** para ter **aul
 #### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
 
   - **[Expo Framework][expo]**
+  - **[Async Storage][async_storage]**
   - **[React Router Dom][react_router_dom]**
   - **[React Navigation][react_navigation]**
+  - **[Axios][axios]**
 
   \* Veja o arquivo <kbd>[package.json](./mobile/package.json)</kbd>
 
@@ -120,4 +122,6 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 [expo]: https://docs.expo.io/
 
 [react_navigation]: https://reactnavigation.org/
+
+[async_storage]: https://github.com/react-native-community/async-storage
 
