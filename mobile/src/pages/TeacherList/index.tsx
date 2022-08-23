@@ -5,7 +5,7 @@ import TeacherItem, { Teacher } from '../../components/TeacherItem'
 import { BorderlessButton, RectButton } from 'react-native-gesture-handler'
 import { Feather } from '@expo/vector-icons'
 import api from '../../services/api'
-import AsyncStorage from '@react-native-community/async-storage'
+import AsyncStorage from '@react-native-async-storage/async-storage'
 
 import styles from './styles'
 import { useFocusEffect } from '@react-navigation/native'

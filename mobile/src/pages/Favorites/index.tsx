@@ -1,8 +1,9 @@
 import React, { useState } from 'react'
-import { View, ScrollView, AsyncStorage } from 'react-native'
+import { View, ScrollView } from 'react-native'
 import PageHeader from '../../components/PageHeader';
 import TeacherItem, { Teacher } from '../../components/TeacherItem';
 import { useFocusEffect } from '@react-navigation/native'
+import AsyncStorage from '@react-native-async-storage/async-storage'
 
 import styles from './styles'
 
